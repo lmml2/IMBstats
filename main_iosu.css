@@ -1,0 +1,152 @@
+
+
+body{
+  padding: 20px;
+  background:  top left repeat-x;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: #666;
+  font-size: 13px;
+ line-height: 1;
+  display: block;
+}
+
+.container {
+  width: 960px;
+  margin:0 auto 2px; 
+  background-image: repeat-x #fff;
+  position: relative;
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+
+header{
+  padding-bottom: 20px;
+height: :100px;
+display: block;
+}
+
+section#post-7{
+margin-top: 7px;
+}
+section{
+width: 818px;
+ margin: 21px auto 25px;
+ display: block;
+}
+.navbar-inverse {
+  padding-top: 10px;
+  background-color: rgba(32, 35, 41,0.8);
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+
+
+
+#case-studies{
+  background: repeat-x bottom left ;
+  clear:both;
+
+}
+article{
+  width: 593px;
+  float:left;
+  display: block;
+}
+
+
+aside{
+    float:right;
+  display: block;
+
+}
+
+#banner{
+  width: 214px;
+  width:593px;
+  height:225px;
+  margin-top: 17px;
+  position: relative;
+}
+
+
+
+.case-study-img{
+  position: absolute;
+  top: 0;
+  left: 65px;
+}
+span.case-study{
+  padding: 10px 0 10px 85px;
+  font-size: 11px;
+  color:#da6946;
+  font-style: italic;
+}
+
+#case-study-1{
+  float:left;
+  width: 235px;
+  padding: 12px 0 45px 65px;
+  position: relative;
+}
+
+#case-study-1 h4, #case-study-2 h4, #case-study-3 h4{
+  padding: 7px 0 0 85px;
+}
+
+#case-study-1 p, #case-study-2 p, #case-study-3 p,{
+padding: 9px 0 7px 5px;
+}
+span{
+  font-size: 11px;
+  color:#66cccc;
+}
+
+#case-study-2{
+  float:left;
+  width: 235px;
+  padding: 12px 0 45px 65px;
+  position: relative;
+}
+
+#case-study-2 .case-study-img{
+  left: 55px;
+}
+
+#case-study-3{
+  float:right;
+  width: 235px;
+  padding: 12px 65px 45px 0px;
+  position: relative;
+}
+
+#case-study-3 .case-study-img{
+  left: 0;
+}
+
+footer{
+width: 100%;
+
+background: #da6946;
+border-top: 1px solid #fff;
+border-bottom: 1px solid #fff;
+clear:both;
+}
+
+footer p{
+  line-height: 41px;
+  color:#fff;
+  font-size: 12px;
+  padding: 0 70px;
+}
+
+footer a{
+  color: #fff;
+  text-decoration: none;
+  float:right;
+}
