@@ -88,6 +88,11 @@ span.case-study{
   font-style: italic;
 }
 
+
+span.IMBstats{
+  color:#da6946;
+  font-style:bold;
+}
 #case-study-1{
   float:left;
   width: 235px;
