@@ -81,7 +81,12 @@ aside{
   position: relative;
 }
 
-
+#banner2{
+  width:800px;
+  height:225px;
+  margin-top: 17px;
+  position: relative;
+}
 
 .case-study-img{
   position: absolute;
