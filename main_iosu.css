@@ -88,10 +88,13 @@ aside{
   position: relative;
   float;left;
 }
-#banner3 h4{
- color:;#da6946
-}
 
+span.hiw{
+  color:#da6946;
+  font-weight: bold;
+  font-size: 22px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
 
 .case-study-img{
   position: absolute;
